@@ -1,5 +1,4 @@
 # ESP32 Geiger Counter
-ESP32 Geiger Counter
 
 This project documents the design and implementation of an Arduino Nano ESP32 controlled geiger counter circuit outfitting a classic Soviet-era SBM-20 Geiger-Muller tube to detect gamma radiation emissions. The design process manages safe high-voltage biasing, analog-digital pulse discrimination and noise reduction on the hardware side, sensed by the microcontroller to output accurate radiation event readings.  
 
